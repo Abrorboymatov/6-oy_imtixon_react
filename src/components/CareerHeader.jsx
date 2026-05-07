@@ -4,7 +4,7 @@ import Svg from '../assets/svg.svg'
 
 
 
-export default function () {
+export default function CareerHeader() {
 
 
 
